@@ -10,4 +10,4 @@
 ## Задание 2
 # ![](img/2.png)
 
-### [Скрипт](txt/script1.txt)
+### [Скрипт](txt/script2.txt)
